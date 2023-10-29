@@ -32,7 +32,7 @@ nav .circle{
   height: 40px;
   background: #fff;
   line-height: 40px;
-  color: #f53192;
+  color: #f61059;
   box-shadow: 0 0px 10px rgba(255, 26, 26, 0.6);
 }
 .song-img{
@@ -55,14 +55,14 @@ nav .circle{
   -webkit-appearance: none;
   width: 100%;
   height: 5px;
-  background: #f53192;
+  background: #f61059;
   border-radius: 4px;
   cursor: pointer;
   margin: 40px 0;
 }
 #progress::-webkit-slider-thumb{
   -webkit-appearance: none;
-  background: #f53192;
+  background: #f61059;
   width: 19px;
   height: 19px;
   border-radius: 50%;
@@ -85,4 +85,9 @@ nav .circle{
   border-radius: 50%;
   color: #f53192;
   box-shadow: 0 0 9px rgba(255, 26, 26, 0.9);
+}
+.container div:nth-child(2){
+  transform: scale(1.5);
+  background: #f61059;
+  color: #fff
 }
