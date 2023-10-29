@@ -59,3 +59,12 @@ nav .circle{
   cursor: pointer;
   margin: 40px 0;
 }
+#progress::-webkit-slider-thumb{
+  -webkit-appearance: none;
+  background: #f53192;
+  width: 19px;
+  height: 19px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 9px rgba(255, 26, 26, 0.9)
+}
