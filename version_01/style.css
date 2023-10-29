@@ -32,12 +32,12 @@ nav .circle{
   background: #fff;
   line-height: 40px;
   color: #f53192;
-  box-shadow: 0 5px 10px rgba(255, 26, 26, 0.6);
+  box-shadow: 0 0px 10px rgba(255, 26, 26, 0.6);
 }
 .song-img{
   width: 250px;
   border-radius: 20%;
-  border: 8px solid #fff;
+  border: 3px solid #fff;
   box-shadow: 0 10px 60px rgba(255, 26, 26, 0.9);
 }
 .music-player h1{
